@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object tracking bot Unity project", "Assembly-CSharp-Editor.csproj", "{F1AD22EA-0130-CED6-7E2F-E9928456C64F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Object tracking bot Unity project", "Assembly-CSharp.csproj", "{D5DBA64E-2EA4-712A-1A07-7EB27C3ED7CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1AD22EA-0130-CED6-7E2F-E9928456C64F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AD22EA-0130-CED6-7E2F-E9928456C64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AD22EA-0130-CED6-7E2F-E9928456C64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AD22EA-0130-CED6-7E2F-E9928456C64F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5DBA64E-2EA4-712A-1A07-7EB27C3ED7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5DBA64E-2EA4-712A-1A07-7EB27C3ED7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5DBA64E-2EA4-712A-1A07-7EB27C3ED7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5DBA64E-2EA4-712A-1A07-7EB27C3ED7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

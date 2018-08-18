@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="targetbook" size="16.000000 20.709030" />
+    <ImageTarget name="RS_100" size="16.000000 7.471795" />
+    <ImageTarget name="VRBOX" size="20.000000 13.662728" />
+    <ImageTarget name="redmibox" size="17.000000 8.693811" />
+  </Tracking>
+</QCARConfig>
